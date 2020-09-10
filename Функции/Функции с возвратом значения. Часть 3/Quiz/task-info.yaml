@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: имена функций должны быть максимально короткими
+- text: вызов функции и определение функции означают одно и то же
+- text: программный код в одной функции может обращаться к локальной переменной в
+    другой функции
+- text: функции упрощают работу программистов в командах
+- text: в Python нельзя писать функции, которые принимают многочисленные аргументы
+- text: функция в Python может возвращать более одного значения
+- text: сложные математические выражения иногда можно упрощать путем вычленения части
+    выражения и ее помещения в функцию
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1

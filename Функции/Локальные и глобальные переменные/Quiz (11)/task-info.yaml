@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: глобальные переменные доступны для всех функций
+- text: после выхода из функции локальные переменные станут недоступны
+- text: функция вызывается по своему имени с указанием необходимых аргументов
+- text: локальные переменные, определенные в пределах функции, действуют только в
+    ней
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz

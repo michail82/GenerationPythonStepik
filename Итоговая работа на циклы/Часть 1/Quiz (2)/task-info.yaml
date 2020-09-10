@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 0, 100, 200, 300, 400, 500
+- text: 0, 100, 200, 300, 400, 500, 501
+- text: 0, 100, 501
+- text: 0, 501
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz

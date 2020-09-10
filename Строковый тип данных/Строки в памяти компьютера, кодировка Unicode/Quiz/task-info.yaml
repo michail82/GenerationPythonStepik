@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 102
+- text: 324
+- text: 102 111 111
+- text: Произойдет ошибка TypeError
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1

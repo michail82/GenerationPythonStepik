@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: <code>[10, 10, 10, 10, 10]</code>
+- text: <code>[10] [10] [10] [10] [10]</code>
+- text: <code>[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]</code>
+- text: <code>[10] * 5</code>
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz

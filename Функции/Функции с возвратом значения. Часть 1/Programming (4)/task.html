@@ -1,0 +1,17 @@
+<html>
+ <head></head>
+ <body>
+  <h2 style="text-align: center;">Найти всех</h2> 
+  <p>Напомним, что строковый метод <code>find('a')</code>&nbsp;возвращает&nbsp;местоположение первого вхождения символа&nbsp;<code>a</code>&nbsp;в строке. Проблема заключается в том, что данный метод не находит местоположение всех символов&nbsp;<code>а</code>.</p> 
+  <p>Напишите функцию с именем <code>find_all(target, symbol)</code>, которая принимает два аргумента: строку <code>target</code> и символ <code>symbol</code> и&nbsp;возвращает список, содержащий все местоположения этого символа в строке.</p> 
+  <p><strong>Примечание 1.</strong> Если указанный символ не встречается в строке, то следует&nbsp;вернуть пустой список.</p> 
+  <p><strong>Примечание 2.</strong> Следующий программный код:</p> 
+  <pre><code class="language-python">print(find_all('abcdabcaaa', 'a'))
+print(find_all('abcadbcaaa', 'e'))
+print(find_all('abcadbcaaa', 'd'))</code></pre> 
+  <p>должен выводить:</p> 
+  <pre><code class="language-no-highlight">[0, 4, 7, 8, 9]
+[]
+[4]</code></pre>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 15 seconds</font><br><br>
