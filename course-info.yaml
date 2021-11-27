@@ -2,7 +2,8 @@ type: stepik
 title: '"Поколение Python": курс для начинающих'
 language: Russian
 summary: Курс с кучей тренировочных задач, удобный как для самостоятельного изучения,
-  так и для работы в группе в рамках внеурочной деятельности.
+  так и для работы в группе в рамках внеурочной деятельности.<br/><br/>Learn more
+  at <a href="https://stepik.org/course/58852">https://stepik.org/course/58852</a>
 programming_language: Python
 programming_language_version: 3.x
 content:

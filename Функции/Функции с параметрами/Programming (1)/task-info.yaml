@@ -9,7 +9,7 @@ files:
         pass
 
     # считываем данные
-    name, surname, patronymic = input(), input(), input(),
+    name, surname, patronymic = input(), input(), input()
 
     # вызываем функцию
     print_fio(name, surname, patronymic)
