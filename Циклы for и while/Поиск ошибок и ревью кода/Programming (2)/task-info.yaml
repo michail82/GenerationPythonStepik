@@ -11,5 +11,8 @@ files:
             s = s + n
     print(s)
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Correct solution
+  time: Thu, 02 Dec 2021 18:43:56 UTC
 record: -1

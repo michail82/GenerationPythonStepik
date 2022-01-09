@@ -1,6 +1,8 @@
-s = 1
-for i in range(1, 7):
-    n = input()
-    if i % 2 == 0:
-        s = s + n
-print(s)
+even_number_sum = 0
+for i in range(0, 7):
+    n = int (input())
+    if n % 2 == 0:
+        even_number_sum +=n
+if even_number_sum > 0:
+    print (even_number_sum)
+else: print (0)

@@ -12,5 +12,10 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Correct solution
+  time: Mon, 29 Nov 2021 18:26:24 UTC
 record: -1
+selected_options:
+- 0

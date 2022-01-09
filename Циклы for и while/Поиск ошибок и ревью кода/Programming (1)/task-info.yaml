@@ -15,5 +15,5 @@ files:
     print(s)
     print(mx)
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

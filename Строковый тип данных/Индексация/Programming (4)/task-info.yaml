@@ -6,4 +6,8 @@ files:
   text: '# put your python code here'
   learner_created: false
 status: Unchecked
+feedback:
+  message: Failed to launch checking. For more information, see <a href="https://plugins.jetbrains.com/plugin/10081-edutools/docs/troubleshooting-guide.html#failed_to_launch_checking">the
+    Troubleshooting guide</a>
+  time: Sun, 09 Jan 2022 16:08:14 UTC
 record: -1

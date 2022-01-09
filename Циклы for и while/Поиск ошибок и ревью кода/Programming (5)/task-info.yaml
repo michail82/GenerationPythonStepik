@@ -12,5 +12,8 @@ files:
         n //= 10
     print(product)
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Correct solution
+  time: Sat, 04 Dec 2021 14:45:56 UTC
 record: -1

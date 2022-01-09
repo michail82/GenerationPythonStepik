@@ -1,4 +1,6 @@
 n = int(input())
-while n > 0:
-    n %= 10
-print(n)
+last_number = 0
+while n != 0:
+    last_number = n % 10
+    n = n//10
+print(last_number)
