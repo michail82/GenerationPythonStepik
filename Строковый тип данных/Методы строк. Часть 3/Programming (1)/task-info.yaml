@@ -10,5 +10,5 @@ files:
 
     print('In {}, someone paid {} {} for two pizzas.')
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

@@ -7,5 +7,5 @@ files:
     s = "In 2010, someone paid 10k Bitcoin for two pizzas."
     print()
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

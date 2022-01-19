@@ -2,9 +2,9 @@ type: choice
 is_multiple_choice: false
 options:
 - text: 102
+- text: Произойдет ошибка TypeError
 - text: 324
 - text: 102 111 111
-- text: Произойдет ошибка TypeError
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
@@ -14,5 +14,10 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Correct solution
+  time: Tue, 18 Jan 2022 19:47:21 UTC
 record: -1
+selected_options:
+- 1

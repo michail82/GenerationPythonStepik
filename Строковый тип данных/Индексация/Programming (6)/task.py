@@ -7,3 +7,6 @@ for i in range (0,n):
          a = 1
 if a==1: print ('Цифра')
 else: print  ('Цифр нет')
+
+
+
